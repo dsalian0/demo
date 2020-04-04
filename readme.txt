@@ -5,7 +5,7 @@ This is a Java program which determines if two cities are connected
 ## Installation
 ---
 
-## Usage
+## Usage12345
 
 http://localhost:8080/connected?origin=Boston&destination=Newark
 Should return yes
